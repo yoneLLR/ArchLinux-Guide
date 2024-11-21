@@ -1,2 +1,4 @@
-# ArchLinux-Guide
-Arch Linux Installation Guide
+## Arch Linux Installation Guide
+# Set the console keyboard layout
+
+```loadkeys us```
