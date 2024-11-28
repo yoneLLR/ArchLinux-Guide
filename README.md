@@ -3,5 +3,5 @@
 
 ```loadkeys us```
 
-Wifi Icon: f6ac
+Wifi Icon: 
 Wifi Slash Icon: 🚫🌐
